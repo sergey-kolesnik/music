@@ -1,3 +1,6 @@
+@use "font";
+@use "var" as *;
+
 body {
-    font-size: 18px;
+    font-family: $font;
 }
